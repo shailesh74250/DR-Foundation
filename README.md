@@ -1,2 +1,2 @@
 # DS-Foundation
-Dhararam Sayary Devo Foundation
+Dhararam Shayry Devo Foundation
