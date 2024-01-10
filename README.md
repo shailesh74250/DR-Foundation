@@ -1,2 +1,2 @@
-# DR-Foundation
-Dhararam Rajkumar Foundation
+# DS-Foundation
+Dhararam Sayary Devo Foundation
